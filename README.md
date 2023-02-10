@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prerna Kumari</h1>
 <h3 align="center">A passionate full stack web developer with a strong hold on modern libraries and frameworks .</h3>
+<h2>I am a MERN StackDeveloper with strong hold in frontend libraries like React and adequate backend experience with node js
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prerna1113&label=Profile%20views&color=0e75b6&style=flat" alt="prerna1113" /> </p>
 
